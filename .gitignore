@@ -1,0 +1,16 @@
+# فایل‌های مخفی
+.env
+config.py
+
+# دیتابیس
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
